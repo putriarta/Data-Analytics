@@ -1,3 +1,4 @@
+### Overview
 This project was from DQLab and aimed to perform data analytics about sales retail from 2017-2019. 
 The main of the project is to provide analysis, visualization, and modeling to the data. 
 I added some improvements and my interpretation of the situation.
