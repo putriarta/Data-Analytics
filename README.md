@@ -1,2 +1,2 @@
 # Data-Analytics
-My whole documentation of data analytics and data science project, task, or assignment.
+These are my whole documentations of data analytics and data science project, task, or assignment.
